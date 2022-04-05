@@ -1,0 +1,47 @@
+/* Navbar Start */
+body{
+    margin: 0;
+    padding: 0;
+}
+/* Navbar End */
+.keyboard1{
+    position: relative;
+    width: 20%;
+    height: 12.5%;
+    float: left;
+    font-size: 150%;
+    color:brown;
+    background-color:orange;
+    border: 1px solid brown;
+}
+.keyboard3{
+    display: none;
+}
+.keyboard2{
+    position: relative;
+    width: 20%;
+    height: 12.5%;
+    float: left;
+    font-size: 200%;
+    color: brown;
+    background-color: #00ffff;
+    border: 1px solid brown;
+}
+.keyboard4{
+    display: none;
+}
+.keyboard5{
+    display: block;
+    position: relative;
+    width: 20%;
+    height: 12.5%;
+    float: left;
+    font-size: 150%;
+    color:brown;
+    background-color:orange;
+    border: 1px solid brown;
+}
+.keyboard5:hover{
+    background-color: brown;
+    color: orange;
+}

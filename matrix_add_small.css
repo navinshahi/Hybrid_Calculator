@@ -1,0 +1,113 @@
+/* Navbar Start */
+body{
+    margin: 0;
+    padding: 0;
+}
+/* Navbar End */
+.main_frame{
+    position: relative;
+    width: 100vw;
+    height: 1000px;
+    text-align: center;
+    background-color: #43e97b;
+}
+.frame_1{
+    position: relative;
+    width: 100%;
+    margin: auto;
+    height: 10%;
+}
+.frame_2{
+    position: relative;
+    width: 100%;
+    height: 90%;
+    margin: auto;
+    border: 1px solid#524747;
+}
+.subframe_1{
+    position: relative;
+    width: 100%;
+    height: 8%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom:1px solid #524747 ;
+    background-color: #00ffff;
+    font-size: 23px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+.subframe_2{
+    position: relative;
+    width: 100%;
+    height: 10%;
+    font-size: 16px;
+    border-bottom: 1px solid #524747;
+    font-weight: bold;
+    background-color: white;
+}
+.subframe_3{
+    position: relative;
+    width: 100%;
+    height: 74%;
+    background-color: white;
+}
+.subframe_4{
+    position: relative;
+    width: 100%;
+    height: 8%;
+    border-top:1px solid #524747;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: white;
+}
+.mat1{
+    position: relative;
+    width: 100%;
+    height: 50%;
+    float: left;
+    border-bottom: 1px solid black;
+}
+.mat2{
+    position: relative;
+    width: 100%;
+    height: 50%;
+    float: left;
+}
+.submat1{
+    position: relative;
+    width: 100%;
+    height: 15%;
+    font-size: 24px;
+    font-weight: bold;
+    border-bottom: 1px solid black;
+}
+.submat2{
+    position: relative;
+    width: 100%;
+    height: 85%;
+    font-size: 24px;
+    overflow-x: auto;
+    overflow-y: auto;
+    font-weight: bold;
+}
+.matrix1{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-43%,-50%);
+}
+.frame_3{
+    position: relative;
+    width: 100%;
+    margin: auto;
+    height: 10%;
+}
+.frame_4{
+    position: relative;
+    width: 100%;
+    height: 90%;
+    margin: auto;
+    border-radius: 5px;
+    border: 1px solid black;
+}
